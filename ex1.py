@@ -1,4 +1,7 @@
-# doctest
+'''
+doctest part 1
+document: https://docs.python.org/3/library/doctest.html
+'''
 
 def rectangle_area(w, h):
     '''
